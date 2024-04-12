@@ -35,6 +35,8 @@ public class LaptopSpecifications {
         currency = "DKK";
         name = "Asus Zephyrus";
 
+        laptopRecipe = new Object();
+
         System.out.println("Gaming laptop: "+ laptopForGaming);
         System.out.println("Laptop name: " + name);
         System.out.println("Price: " + price + " " + currency);
