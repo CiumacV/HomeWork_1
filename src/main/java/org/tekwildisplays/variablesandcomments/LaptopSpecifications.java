@@ -17,7 +17,7 @@ public class LaptopSpecifications {
 
         String currency;
         String name;
-        Object laptopRecipe;
+
 
 
         laptopForGaming = true;
@@ -35,7 +35,7 @@ public class LaptopSpecifications {
         currency = "DKK";
         name = "Asus Zephyrus";
 
-        laptopRecipe = new Object();
+
 
         System.out.println("Gaming laptop: "+ laptopForGaming);
         System.out.println("Laptop name: " + name);
