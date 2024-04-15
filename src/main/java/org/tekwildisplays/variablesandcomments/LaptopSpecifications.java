@@ -18,7 +18,7 @@ public class LaptopSpecifications {
         String currency;
         String name;
 
-
+        Object exmpluDeObiect;
 
         laptopForGaming = true;
         hdr = false;
@@ -34,6 +34,8 @@ public class LaptopSpecifications {
         serialNumber = 506937845;
         currency = "DKK";
         name = "Asus Zephyrus";
+
+        exmpluDeObiect = new Object();
 
 
 
